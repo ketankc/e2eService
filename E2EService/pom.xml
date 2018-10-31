@@ -6,7 +6,7 @@
 	<groupId>com.e2e.service</groupId>
 	<artifactId>E2EService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>E2EService</name>
 	<description>Demo project for Spring Boot</description>
